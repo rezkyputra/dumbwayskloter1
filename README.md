@@ -26,3 +26,10 @@
 <img src="Screenshot/02.png" width="350">
 
 # install no 4
+<ol>
+  <li> buat database dumbways </li>
+  <li> import dbexport.sql yang berada di soal 4 </li>
+  <li> atur koneksi pada file konek.php </li>
+  <li> buka terminal lalu ketik  php -S localhost:8000 </li>
+  <li> jalankan aplikasi di web browser localhost:8000 </li>
+ </ol>
